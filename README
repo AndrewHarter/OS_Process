@@ -1,0 +1,10 @@
+Andrew Harter
+Written in C++
+
+This program simulates Operating process handling. Users can simulate three different types of processes; Realtime, Multilevel Feedback Queue and Windows hybrid.
+
+run ./scheduler to start program after make
+
+Follow prompts to pick scheduler and set values
+
+Program needs a vaild file or it will crash
